@@ -1,9 +1,9 @@
 {
-  "name": "@monorepo-template/functions",
+  "name": "@gibcal-sst-mono-1/functions",
   "version": "0.0.0",
   "type": "module",
   "dependencies": {
-    "@monorepo-template/core": "*",
+    "@gibcal-sst-mono-1/core": "*",
     "sst": "*"
   },
   "devDependencies": {

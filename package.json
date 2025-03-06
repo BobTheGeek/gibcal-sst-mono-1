@@ -1,5 +1,5 @@
 {
-  "name": "monorepo-template",
+  "name": "gibcal-sst-mono-1",
   "version": "0.0.0",
   "workspaces": [
     "packages/*"
