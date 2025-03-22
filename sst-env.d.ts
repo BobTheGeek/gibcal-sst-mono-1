@@ -9,13 +9,25 @@ declare module "sst" {
       "type": "sst.aws.ApiGatewayV2"
       "url": string
     }
+    "CalendarEvents": {
+      "name": string
+      "type": "sst.aws.Dynamo"
+    }
     "Notes": {
+      "name": string
+      "type": "sst.aws.Dynamo"
+    }
+    "Todos": {
       "name": string
       "type": "sst.aws.Dynamo"
     }
     "Uploads": {
       "name": string
       "type": "sst.aws.Bucket"
+    }
+    "Users": {
+      "name": string
+      "type": "sst.aws.Dynamo"
     }
   }
 }
